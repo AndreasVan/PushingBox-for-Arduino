@@ -26,7 +26,7 @@ boolean DEBUG = true;
 
 
 //char serverName[] = "api.pushingbox.com";
-char serverName[] = "213.186.33.19";
+char serverName[] = "api.pushingbox.com";
 boolean pinDevid1State = false;                // Save the last state of the Pin for DEVID1
 boolean lastConnected = false;                 // State of the connection last time through the main loop
 
